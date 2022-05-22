@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/963472018358009877?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/963472018358009877?hideTimestamp=true&idleMessage=Owner%20of%20Vengance%20MultiTool.&hideBadges=true"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaz0x&theme=dark&hide_border=true">
 	<br>
