@@ -1,8 +1,4 @@
-```js
-┌──(Yaz0x㉿kali)-[~/Desktop]
-└─$ ls
-Yaz0x.py
-vengeance.py
+```css
 
 ┌──(Yaz0x㉿kali)-[~/Desktop]
 └─$ ./Yaz0x.py
