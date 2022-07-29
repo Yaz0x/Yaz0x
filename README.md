@@ -1,6 +1,12 @@
 ```js
 ┌──(Yaz0x㉿kali)-[~/Desktop]
 └─$ ls
+Yaz0x.py
+vengeance.py
+
+┌──(Yaz0x㉿kali)-[~/Desktop]
+└─$ Yaz0x.py  
+
 
 
 
