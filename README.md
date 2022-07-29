@@ -1,4 +1,4 @@
-```css
+```py
 
 ┌──(Yaz0x㉿kali)-[~/Desktop]
 └─$ ./Yaz0x.py
