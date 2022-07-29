@@ -8,11 +8,11 @@ vengeance.py
 └─$ Yaz0x.py
 
 
-                    -@                    paradox@archlinux
-                   .##@                   -----------------
-                  .####@                  Username: Kaneki Web
-                  @#####@                 Alias: Kaneki, Paradox
-                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
+                    -@                    
+                   .##@                   
+                  .####@                  
+                  @#####@                 
+                . *######@               
                .##@o@#####@               
               /############@            
              /##############@             
