@@ -5,7 +5,7 @@ Yaz0x.py
 vengeance.py
 
 ┌──(Yaz0x㉿kali)-[~/Desktop]
-└─$ Yaz0x.py
+└─$ ./Yaz0x.py
 
 
                     -@                    
